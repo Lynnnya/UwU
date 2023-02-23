@@ -7,10 +7,4 @@ just messing around ig
 
 anyways to everyone reading this
 
-string love = '<3';
-
-while(true) {
-
- cout << love << endl;
- 
- }
+Love you <3
